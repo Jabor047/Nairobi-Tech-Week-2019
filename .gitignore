@@ -1,0 +1,7 @@
+test_data/
+borrowed_models/
+model_tests.py
+trained_models/
+Crop-Disease-Detector-NTW-2019-master/
+*.zip
+
